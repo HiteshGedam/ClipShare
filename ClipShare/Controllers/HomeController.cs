@@ -1,4 +1,4 @@
-using ClipShare.Models;
+using ClipShare.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
